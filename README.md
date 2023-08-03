@@ -7,30 +7,7 @@
 
 
 ```bash
-< PROJECT ROOT >
-   |
-   |-- pre_trained_model/                # Directory to hold pre-trained model
-   |    |-- assets/                      # Assets directory 
-   |    |    |-- tokens.txt              # Tokens for words file         
-   |    |
-   |    |-- variables/                   # Variables file        
-   |    |-- saved_model.pb               # Deep learning model
-   |
-   |-- static/                           # Static directory
-   |    |-- css/                         # CSS directory                     
-   |         |-- main.css                # Main CSS file  
-   |
-   |-- templates/                        # Templates directory
-   |    |-- index.html                   # index html
-   |
-   |-- app.py                            # Deep Learning word analysis
-   |-- cake.py                           # Deep Learning food recognition
-   |-- test.py                           # Tests Deep Learning function
-   |-- utils.py                          # Calls pretrained model
-   |-- README.md                         # Standard readme documentation
-   |-- requirements.txt                  # Required libraries file
-   |
-   |-- ************************************************************************
+비어 있음
 ```
 
 <br />
