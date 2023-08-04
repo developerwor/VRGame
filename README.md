@@ -2,6 +2,10 @@
 
 - VR 환경 프로젝트
 
+## 💻 개발환경
+- Unity
+- Microsoft visual studio
+
 ## 📂 주요 코드 기능
 
 
