@@ -12,16 +12,16 @@
 
 ```bash
 < 코드 설명(정리중) >
-   |-- AI_ment.cs                  // 로봇을 멈추거나 다시 움직이게 하기위한 기능
-   |-- Robot_Ai.cs                 // 로봇을 특정위치에 랜덤으로 움직이게하거나 코멘트를 표시하기 위한 기능
+   |-- AI_ment.cs                  // 로봇의 작동 및 정지
+   |-- Robot_Ai.cs                 // 로봇을 특정위치에 랜덤 이동 및 코멘트 표시
    |-- fuel_post.cs                // 로봇이 연료를 받기위한 기능
    |-- petrobot.cs                 // 아이템을 들어주는 펫 로봇을 움직이게 하기위한 기능
-   |-- refrigeratorarm.cs          // 중간 가이드 역할인 냉장고 로봇이 팔을 지속적으로 회전하는 기능
+   |-- refrigeratorarm.cs          // 냉장고 로봇이 팔을 지속적으로 회전하는 기능
    |-- refrigertormove.cs          // 또 다른 냉장고 로봇이 특정 조건에 이동하기 위한 기능
    |-- vending_machine.cs          // 밥을 구입하기 위한 자판기 로봇
-   |-- washer.cs                   // 코인을 획득하기 위해 발판이 되어주는 세탁기 로봇
+   |-- washer.cs                   // 아이템 획득을 위해 발판이 되어주는 세탁기 로봇
    |-- 
-   |-- ItemSlot.cs                 // 펫 로봇에게 아이템을 던졌을때 받아내기 위한 아이템 위치 지정
+   |-- ItemSlot.cs                 // 펫 로봇에게 아이템을 주었을때 위치 지정
    |-- itemslot_test.cs            // 펫 로봇이 가진 아이템의 유무 체크
    |-- 
    |-- Player_input.cs             // 플레이어 이동(Move, JUMP, Fly, Gravity)
